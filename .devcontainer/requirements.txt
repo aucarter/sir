@@ -1,0 +1,6 @@
+dvc
+radian
+numpy
+pandas
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0
